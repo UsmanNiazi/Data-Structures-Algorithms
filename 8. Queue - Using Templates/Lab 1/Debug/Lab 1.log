@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dynamic Array.vcxproj, Lab 1.vcxproj, Stack using array.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  function.cpp
+  main.cpp
+  Generating Code...
+  Lab 1.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\5. Queue\Templates\Que\Dynamic Array\Debug\Queue Using array.exe
