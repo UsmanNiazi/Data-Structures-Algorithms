@@ -21,7 +21,7 @@ some of them includes
 
 ### Note:
 
-Open the .sln file in each folder to open the full project.
+Open the .sln file in each folder to open the full project..
 
 
 You are more than welcome to improve the algorithms by contributing to them.
