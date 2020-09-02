@@ -1,5 +1,0 @@
-﻿  main.cpp
-  functions.cpp
-  Generating Code...
-e:\university books\semester 3\dsa\data structure project\doublylinkedlist(corrected)\doublylinkedlist(corrected)\doublylinkedlist\functions.cpp(270): warning C4715: 'list::Find': not all control paths return a value
-  DoublyLinkedList.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\DoublyLinkedList(Corrected)\DoublyLinkedList(Corrected)\x64\Debug\DoublyLinkedList.exe
