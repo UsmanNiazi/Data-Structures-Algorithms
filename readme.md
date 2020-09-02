@@ -4,15 +4,15 @@ This Repo Includes the Data Stuctures Programs and algorithms that i did in my B
 These are fully functional Algos written by myself from scratch in C++ OOP , Pointers and arrays.
 some of them includes 
 
-Singly Linked List
-Doubly Linked List
-Stacks Using Arrays, Linked List
-Infix to postfix coversion and evaluation
-Queues
-Priority Queues 
-Recursion
-graphs with vertices in cpp / c++
-and Many more
+- Singly Linked List
+- Doubly Linked List
+- Stacks Using Arrays, Linked List
+- Infix to postfix coversion and evaluation
+- Queues
+- Priority Queues 
+- Recursion
+- graphs with vertices in cpp / c++
+- and Many more
 
 ## Requirements: 
 
