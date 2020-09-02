@@ -1,0 +1,7 @@
+﻿  Queue.cpp
+  main.cpp
+  Generating Code...
+E:\University Books\Semester 3\DSA\Data Structure Project\5. Queue\Queue using Linked Lists\DoublyLinkedList\Queue.cpp(69): warning C4715: 'Queue::Rear': not all control paths return a value
+E:\University Books\Semester 3\DSA\Data Structure Project\5. Queue\Queue using Linked Lists\DoublyLinkedList\Queue.cpp(55): warning C4715: 'Queue::Front': not all control paths return a value
+E:\University Books\Semester 3\DSA\Data Structure Project\5. Queue\Queue using Linked Lists\DoublyLinkedList\Queue.cpp(41): warning C4715: 'Queue::Dequeue': not all control paths return a value
+  DoublyLinkedList.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\5. Queue\Queue using Linked Lists\Debug\Queue.exe
