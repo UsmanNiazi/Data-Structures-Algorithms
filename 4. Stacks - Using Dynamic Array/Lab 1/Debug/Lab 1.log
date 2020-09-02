@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dynamic Array.vcxproj, Lab 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  function.cpp
+f:\university books\semester 3\dsa\data structures\stacks\dynamic array\dynamic array\lab 1\function.cpp(18): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+f:\university books\semester 3\dsa\data structures\stacks\dynamic array\dynamic array\lab 1\function.cpp(24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating Code...
+f:\university books\semester 3\dsa\data structures\stacks\dynamic array\dynamic array\lab 1\function.cpp(66): warning C4715: 'Stack::Pop': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Lab 1.vcxproj -> F:\University Books\Semester 3\DSA\Data Structures\Stacks\Dynamic Array\Dynamic Array\Debug\Stack using array.exe
