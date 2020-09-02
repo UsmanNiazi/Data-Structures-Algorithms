@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dynamic Array.vcxproj, Lab 1.vcxproj, Stack using array.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(29,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(33,22): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(34,22): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(37,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(40,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(42,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(44,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(46,22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(20,16): warning C4101: 'v': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Lab 1\main.cpp(20,6): warning C4101: 'e': unreferenced local variable
+  Lab 1.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\Postfix Evaluation\Stack\Dynamic Array\Debug\postfix Evaluation.exe

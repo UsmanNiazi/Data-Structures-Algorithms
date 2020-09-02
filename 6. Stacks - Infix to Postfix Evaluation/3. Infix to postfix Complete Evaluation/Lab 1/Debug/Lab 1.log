@@ -1,0 +1,51 @@
+﻿  function.cpp
+  main.cpp
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(70,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(74,22): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(75,22): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(78,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(81,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(83,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(85,23): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(87,22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(62,19): warning C4101: 'v': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(62,6): warning C4101: 'e': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(22,9): warning C4101: 'f': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(23,7): warning C4101: 's': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(23,14): warning C4101: 'c': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Lab 1\main.cpp(22,6): warning C4101: 'n': unreferenced local variable
+  Generating Code...
+  Lab 1.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\4. Stacks\Infix to Postfix Evaluation-Final\infix to postfix Stack\Debug\Stack Postfix.exe

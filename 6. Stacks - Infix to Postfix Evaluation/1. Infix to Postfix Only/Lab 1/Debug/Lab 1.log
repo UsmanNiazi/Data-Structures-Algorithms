@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Dynamic Array.vcxproj, Lab 1.vcxproj, Stack using array.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  function.cpp
+  main.cpp
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Lab 1\main.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Lab 1\main.cpp(11,9): warning C4101: 'f': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Lab 1\main.cpp(12,7): warning C4101: 's': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Lab 1\main.cpp(12,14): warning C4101: 'c': unreferenced local variable
+E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Lab 1\main.cpp(11,6): warning C4101: 'n': unreferenced local variable
+  Generating Code...
+  Lab 1.vcxproj -> E:\University Books\Semester 3\DSA\Data Structure Project\Stacks\infix to postfix Stack\Debug\Stack Postfix.exe
