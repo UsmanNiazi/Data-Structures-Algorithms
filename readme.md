@@ -21,10 +21,10 @@ and Many more
 
 ### Note:
 
-Open the sln file to open the full project.
+Open the .sln file in each folder to open the full project.
 
 
 You are more than welcome to improve the algorithms by contributing to them.
 Star the repo if you found it useful.
 
-# exit()
+## exit()
